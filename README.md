@@ -1,2 +1,2 @@
 # snackbar-with-action
-Making a snackbar with on click action.
+Example of a snackbar with on click action.
